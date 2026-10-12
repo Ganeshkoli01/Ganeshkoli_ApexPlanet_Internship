@@ -1,0 +1,15 @@
+Check,Issue_Count,Status
+Missing values - Order_ID,0,Pass
+Missing values - Order_Date,0,Pass
+Missing values - Customer_ID,0,Pass
+Missing values - Customer_Name,0,Pass
+Missing values - Age,20,Review required
+Missing values - Gender,0,Pass
+Missing values - City,13,Review required
+Missing values - Product,0,Pass
+Missing values - Category,0,Pass
+Missing values - Quantity,0,Pass
+Missing values - Unit_Price,0,Pass
+Missing values - Total_Sales,0,Pass
+Exact duplicate rows,0,Pass
+Rows with repeated Order_ID,9,Review required

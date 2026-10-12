@@ -1,0 +1,13 @@
+Column,Missing_Count,Missing_Percentage,Non_Missing_Count
+Age,20,2.0,980
+City,13,1.3,987
+Order_ID,0,0.0,1000
+Order_Date,0,0.0,1000
+Customer_Name,0,0.0,1000
+Customer_ID,0,0.0,1000
+Gender,0,0.0,1000
+Product,0,0.0,1000
+Category,0,0.0,1000
+Quantity,0,0.0,1000
+Unit_Price,0,0.0,1000
+Total_Sales,0,0.0,1000

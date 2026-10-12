@@ -1,0 +1,13 @@
+Column,Actual_Data_Type,Non_Null_Count,Missing_Count,Unique_Values
+Order_ID,str,1000,0,992
+Order_Date,str,1000,0,342
+Customer_ID,str,1000,0,947
+Customer_Name,str,1000,0,425
+Age,float64,980,20,48
+Gender,str,1000,0,2
+City,str,987,13,8
+Product,str,1000,0,6
+Category,str,1000,0,5
+Quantity,int64,1000,0,10
+Unit_Price,float64,1000,0,1000
+Total_Sales,float64,1000,0,1000

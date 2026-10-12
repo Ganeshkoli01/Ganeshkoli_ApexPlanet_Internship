@@ -1,0 +1,13 @@
+Column,Description,Expected_Type,Validation_Rule
+Order_ID,Unique identifier of an order,Text,Should not be missing; check uniqueness
+Order_Date,Date when the order was placed,Date,Should contain valid dates
+Customer_ID,Identifier of the customer,Text,Check for missing values
+Customer_Name,Name of the customer,Text,Check for missing or inconsistent names
+Age,Age of the customer,Numeric,Check missing values and reasonable age range
+Gender,Gender category recorded in the dataset,Text,Check missing values and inconsistent labels
+City,City associated with the customer or order,Text,Check missing values and spelling variations
+Product,Name of the product purchased,Text,Check missing or inconsistent product names
+Category,Category to which the product belongs,Text,Check category consistency
+Quantity,Number of units purchased,Integer,Should be numeric and usually greater than zero
+Unit_Price,Price of one unit of the product,Numeric,Should be numeric and non-negative
+Total_Sales,Total sales amount for the order line,Numeric,Compare against Quantity multiplied by Unit_Price
