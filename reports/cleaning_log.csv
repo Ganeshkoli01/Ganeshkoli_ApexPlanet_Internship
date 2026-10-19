@@ -1,0 +1,4 @@
+Issue,Action,Reason,Review_Required
+Missing Age,"Fill missing values with median of plausible ages, if applicable",Provides a robust numerical estimate,Yes - verify assumptions
+Missing City,"Replace missing values with Unknown, if applicable",Preserves rows without inventing a city,Yes - confirm reporting requirements
+Exact duplicate rows,Keep first occurrence of exact duplicate rows,Avoids counting identical records twice when confirmed accidental,Yes - verify duplicates are accidental

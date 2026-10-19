@@ -1,0 +1,5 @@
+Check,Issue_Count,Status
+Age outside 0-120,0,Passed
+Quantity <= 0,0,Passed
+Unit_Price < 0,0,Passed
+Total_Sales < 0,0,Passed

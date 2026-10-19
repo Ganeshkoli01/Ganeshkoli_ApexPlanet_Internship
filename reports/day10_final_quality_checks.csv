@@ -1,0 +1,10 @@
+Check,Result
+Expected row count,True
+Missing cells,0
+Exact duplicate rows,0
+Invalid order dates,0
+Sales calculation mismatches,0
+Invalid ages,0
+Non-positive quantities,0
+Negative unit prices,0
+Negative total sales,0

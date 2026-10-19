@@ -1,0 +1,15 @@
+DAY 8 - BUSINESS INSIGHTS
+========================================
+
+Total records analyzed: 1000
+Total revenue: 139,399,439.65
+Total quantity sold: 5,435
+Highest-revenue category: Electronics
+Highest-revenue product: Laptop
+Highest-revenue city: Patna
+Highest-revenue month: 2025-03
+
+Interpretation notes:
+- January 2026 may be a partial month.
+- The Unknown city category should be investigated.
+- Revenue patterns do not prove causation.

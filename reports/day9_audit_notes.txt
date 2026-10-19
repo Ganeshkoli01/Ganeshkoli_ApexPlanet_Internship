@@ -1,0 +1,15 @@
+DAY 9 - DATA QUALITY AUDIT
+========================================
+Rows inspected: 1000
+Columns inspected: 18
+Missing cells: 0
+Exact duplicate rows: 0
+Repeated Order_ID rows: 9
+Sales calculation mismatches: 0
+Unknown city records: 13
+
+Notes:
+- IQR outliers are flags for investigation, not automatic errors.
+- Repeated order IDs should not be deleted without source evidence.
+- Unknown city values should not be guessed.
+- The raw source dataset remains unchanged.

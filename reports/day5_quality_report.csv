@@ -1,0 +1,13 @@
+Column,Data_Type,Missing_Count,Unique_Values
+Order_ID,string,0,992
+Order_Date,datetime64[us],0,342
+Customer_ID,string,0,947
+Customer_Name,string,0,425
+Age,float64,0,48
+Gender,string,0,2
+City,string,0,9
+Product,string,0,6
+Category,string,0,5
+Quantity,int64,0,10
+Unit_Price,float64,0,1000
+Total_Sales,float64,0,1000

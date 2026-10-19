@@ -1,0 +1,28 @@
+APEXPLANET DATA ANALYTICS INTERNSHIP
+TASK 1: DATA IMMERSION AND WRANGLING
+==================================================
+
+Final dataset rows: 1000
+Final dataset columns: 18
+Total revenue: 139,399,439.65
+Total quantity sold: 5,435
+Unique customers: 947
+
+WORK COMPLETED
+- Dataset loading and initial inspection
+- Data cleaning and standardization
+- Date feature engineering
+- Sales validation
+- Category, product, city and gender analysis
+- Business KPI calculation
+- Data-quality and outlier audits
+- Monthly revenue trend analysis
+- Final dataset and report exports
+
+IMPORTANT DATA NOTES
+- Repeated order IDs require source verification.
+- Unknown city values should not be guessed.
+- Outliers are flagged for review, not automatically removed.
+- January 2026 may represent a partial month.
+
+Final dataset file: day10_final_dataset.csv
